@@ -11,7 +11,9 @@ I've been learning to code for 2 years now. After switching careers in 2020 I fo
 *   ✉️  You can contact me at [gabrielchapov.business@gmail.com](mailto:gabrielchapov.business@gmail.com)
 *   🧠  I'm learning currently learning NextJs and NodeJs
 *   🤝  I'm open to collaborating on interesting open source projects, Web3 projects
-*   ⚡  I love reading, going on hikes and gaming in my free time### Skills<p align="left">
+*   ⚡  I love reading, going on hikes and gaming in my free time### 
+
+Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
