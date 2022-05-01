@@ -1,4 +1,4 @@
-Hi 👋 My name is Gabriel
+Hi 👋 Im Gabriel
 ===============================
 
 Im a Web Developer
