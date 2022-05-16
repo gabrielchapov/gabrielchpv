@@ -9,7 +9,7 @@ I've been learning to code for 2 years now. After switching careers in 2020 I fo
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [GitHub](http://github.com/gabrielchpv)
 * ✉️  You can contact me at [gabrielchapov.business@gmail.com](mailto:gabrielchapov.business@gmail.com)
-* 🧠  I'm learning currently learning NextJs and NodeJs
+* 🧠  I'm currently learning NextJs and NodeJs
 * 🤝  I'm open to collaborating on interesting open source projects, Web3 projects
 * ⚡  I love reading, going on hikes and gaming in my free time
 
