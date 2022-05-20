@@ -7,7 +7,7 @@ Im a Web Developer
 I've been learning to code for 2 years now. After switching careers in 2020 I focused on web development. Nowadays Im just trying to improve my frontend skills while also learning backend development
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [my Website](https://gabrielchpv.vercel.app/)
+* 🖥️  See my portfolio at [my website](https://gabrielchpv.vercel.app/)
 * ✉️  You can contact me at [gabrielchapov.business@gmail.com](mailto:gabrielchapov.business@gmail.com)
 * 🧠  I'm currently learning NextJs and NodeJs
 * 🤝  I'm open to collaborating on interesting open source projects, Web3 projects
