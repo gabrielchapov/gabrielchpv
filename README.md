@@ -1,4 +1,4 @@
-Hi 👋 Im Gabriel
+Hello there, Im Gabriel
 ===============================
 
 Im a Frontend Developer
