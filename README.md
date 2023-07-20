@@ -8,8 +8,6 @@ Im a Frontend Developer
 * 🖥️  See my portfolio at [my website](https://gabrielchpv.vercel.app/)
 * ✉️  You can contact me at [gabrielchapov.business@gmail.com](mailto:gabrielchapov.business@gmail.com)
 * 🧠  I'm currently learning NextJs and NodeJs
-* 🤝  I'm open to collaborating on interesting open source projects, Web3 projects
-* ⚡  I love reading, going on hikes and gaming in my free time
 
 ### Skills
 
