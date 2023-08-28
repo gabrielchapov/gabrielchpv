@@ -4,11 +4,6 @@ Hello there, Im Gabriel
 Im a Frontend Developer
 -------------
 
-* 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [my website](https://gabrielchpv.vercel.app/)
-* ✉️  You can contact me at [gabrielchapov.business@gmail.com](mailto:gabrielchapov.business@gmail.com)
-* 🧠  I'm currently learning NextJs and NodeJs
-
 ### Skills
 
 <p align="left">
